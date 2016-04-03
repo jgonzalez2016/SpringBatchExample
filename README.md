@@ -1,5 +1,5 @@
 # SpringBatchExample
-Application Spring Batch développée en Eclipse Mars.
+Application Spring Batch développée en Eclipse Mars qui fait le suivant:
 
 1)	Lire le fichier inputFile.csv qui se trouve dans le répertoire SpringBatchCsvExample/src/main/resources/input
 
